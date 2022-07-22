@@ -21,6 +21,10 @@ function App() {
         <div>
           Sanjeevi
         </div>
+        <div>
+          Sanjeevi 
+        </div>
+        <h1>FullStack Developer</h1>
       </header>
     </div>
   );
