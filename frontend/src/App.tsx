@@ -26,6 +26,8 @@ function App() {
         </div>
         <h1>FullStack Developer</h1>
         <h1>dev added</h1>
+        <h1>dev Description</h1>
+        <h1>Dev Address</h1>
       </header>
     </div>
   );
